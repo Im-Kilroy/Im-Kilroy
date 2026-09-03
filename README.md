@@ -3,6 +3,11 @@
 
 I'm passionate about scientific computing and engineering in my free time. I enjoy exploring the intersection of software, mathematics, physics, and engineering, building projects and learning through hands-on experimentation.
 
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+
 ### 🤖 Languages & Technologies
 
 <img 
@@ -58,6 +63,10 @@ I'm passionate about scientific computing and engineering in my free time. I enj
 
 <br/>
 <br/>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
 
 > You can contact me at: [raf.henrique@outlook.com](mailto:raf.henrique@outlook.com)
 
