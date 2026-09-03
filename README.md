@@ -59,20 +59,11 @@ I'm passionate about scientific computing and engineering in my free time. I enj
 />
 <img 
  align="left" 
- alt="Arduino"
- title="Arduino" 
- width="30px" 
- style="padding-right: 10px;" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" 
-/>
-
-<img 
- align="left" 
  alt="Embedded Systems"
  title="Embedded Systems" 
  width="30px" 
  style="padding-right: 10px;" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/circuitpython/circuitpython-original.svg" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" 
 />
 
 <br/>
