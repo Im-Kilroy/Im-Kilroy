@@ -74,6 +74,15 @@ I'm passionate about scientific computing and engineering in my free time. I enj
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
 />
 
+<img 
+  align="left" 
+  alt="Docker"
+  title="Docker" 
+  width="60px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
+/>
+
 
 
 <br/>
