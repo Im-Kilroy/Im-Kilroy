@@ -2,7 +2,6 @@
 ### Scientific Computing Enthusiast & Engineer
 
 <br>
-
 I'm passionate about scientific computing and engineering in my free time. I enjoy exploring the intersection of software, mathematics, physics, and engineering, building projects and learning through hands-on experimentation.
 
 <br>
