@@ -5,7 +5,7 @@ I'm passionate about scientific computing and engineering in my free time. I enj
 
 <br>
 
-### 🤖 Languages & Technologies
+### Languages & Technologies
 
 <img 
  align="left" 
@@ -93,6 +93,8 @@ I'm passionate about scientific computing and engineering in my free time. I enj
 <br>
 <br>
 <br>
+
+### Social Media and Contact
 
 > My youtube channel where I share some ideas, projects and my day: [YT Channel](https://www.youtube.com/@Im-Kilroy).
 
