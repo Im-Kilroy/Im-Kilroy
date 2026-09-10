@@ -2,7 +2,9 @@
 ### Scientific Computing Enthusiast & Engineer
 I'm passionate about scientific computing and engineering in my free time. I enjoy exploring the intersection of software, mathematics, physics, and engineering, building projects and learning through hands-on experimentation.
 
-<br>
+<br/>
+<br/>
+#
 
 ### Languages & Technologies
 <br>
@@ -73,9 +75,10 @@ I'm passionate about scientific computing and engineering in my free time. I enj
   style="padding-right: 10px;" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
 />
-<br>
-<br>
-<br>
+<br/>
+<br/>
+
+#
 
 ### Contact
 <br>
