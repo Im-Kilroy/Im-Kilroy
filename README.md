@@ -92,14 +92,14 @@ I'm passionate about scientific computing and engineering in my free time. I enj
 <br>
 <br>
 
-### Social Media and Contact
+### Contact
 <br>
 
 > My youtube channel where I share some ideas, projects and my day: [YT Channel](https://www.youtube.com/@Im-Kilroy).
 
 <br>
 
-> You can contact me at: [raf.henrique@outlook.com](mailto:raf.henrique@outlook.com)
+> You can reach me at: [raf.henrique@outlook.com](mailto:raf.henrique@outlook.com)
 
 
 
