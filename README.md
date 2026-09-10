@@ -8,7 +8,6 @@ I'm passionate about scientific computing and engineering in my free time. I enj
 <br>
 
 <img 
- align="left" 
  alt="C"
  title="C" 
  width="60px" 
@@ -16,7 +15,6 @@ I'm passionate about scientific computing and engineering in my free time. I enj
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
 /> 
 <img 
- align="left" 
  alt="C++"
  title="C++" 
  width="60px" 
@@ -24,35 +22,30 @@ I'm passionate about scientific computing and engineering in my free time. I enj
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
 /> 
 <img 
- align="left" 
  alt="Python"
  title="Python" 
  width="60px" 
  style="padding-right: 10px;" 
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 /> <img 
- align="left" 
  alt="Rust"
  title="Rust" 
  width="60px" 
  style="padding-right: 10px;" 
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" 
 /> <img 
- align="left" 
  alt="Fortran"
  title="Fortran" 
  width="60px" 
  style="padding-right: 10px;" 
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fortran/fortran-original.svg" 
 /> <img 
- align="left" 
  alt="C#"
  title="C#" 
  width="60px" 
  style="padding-right: 10px;" 
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
 /> <img 
- align="left" 
  alt="Java"
  title="Java" 
  width="60px" 
@@ -60,7 +53,6 @@ I'm passionate about scientific computing and engineering in my free time. I enj
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
 <img 
- align="left" 
  alt="Embedded Systems"
  title="Embedded Systems" 
  width="60px" 
@@ -68,7 +60,6 @@ I'm passionate about scientific computing and engineering in my free time. I enj
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" 
 />
 <img 
- align="left" 
  alt="Linux"
  title="Linux" 
  width="60px" 
@@ -76,7 +67,6 @@ I'm passionate about scientific computing and engineering in my free time. I enj
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
 />
 <img 
-  align="left" 
   alt="Docker"
   title="Docker" 
   width="60px" 
