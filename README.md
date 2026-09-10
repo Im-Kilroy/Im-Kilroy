@@ -11,19 +11,22 @@ I'm passionate about scientific computing and engineering in my free time. I enj
 <br>
 <img 
  align="left" 
- alt="C++"
- title="C++" 
- width="60px" 
- style="padding-right: 10px;" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
-/> <img 
- align="left" 
  alt="C"
  title="C" 
  width="60px" 
  style="padding-right: 10px;" 
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
-/> <img 
+/> 
+<img 
+ align="left" 
+ alt="C++"
+ title="C++" 
+ width="60px" 
+ style="padding-right: 10px;" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
+/> 
+
+<img 
  align="left" 
  alt="Python"
  title="Python" 
