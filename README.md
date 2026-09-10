@@ -9,6 +9,7 @@ I'm passionate about scientific computing and engineering in my free time. I enj
 
 ### Languages & Technologies
 <br>
+
 <img 
  align="left" 
  alt="C"
