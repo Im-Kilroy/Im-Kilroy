@@ -89,10 +89,6 @@ I'm passionate about scientific computing and engineering in my free time. I enj
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
 
 ### Social Media and Contact
 
