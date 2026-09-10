@@ -92,7 +92,7 @@ I'm passionate about scientific computing and engineering in my free time. I enj
 <br>
 <br>
 
-> My YT channel where I share some ideas, projects and my day: [](https://www.youtube.com/@Im-Kilroy).
+> My YT channel where I share some ideas, projects and my day: [Youtube Channel](https://www.youtube.com/@Im-Kilroy).
 
 <br>
 <br>
