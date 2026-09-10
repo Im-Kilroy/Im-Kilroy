@@ -63,7 +63,7 @@ I'm passionate about scientific computing and engineering in my free time. I enj
   title="Javascript" 
   width="60px" 
   style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/javascript-original.svg" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 <img 
  align="left" 
